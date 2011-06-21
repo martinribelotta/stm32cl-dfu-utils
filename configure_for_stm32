@@ -1,0 +1,2 @@
+#!/bin/sh
+./configure --program-prefix=stm32- CFLAGS=-DSTM32_CL
